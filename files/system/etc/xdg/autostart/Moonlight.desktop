@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=flatpak run com.moonlight_stream.Moonlight
+Name=Moonlight
+Type=Application
+Version=1.0
